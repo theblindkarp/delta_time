@@ -248,7 +248,7 @@ MonoBehaviour:
   x0: -8
   units: 1
   fps: 5
-  updateLimit: 10000
+  updateLimit: 1500
 --- !u!212 &1880501767
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -416,7 +416,7 @@ MonoBehaviour:
   x0: -8
   units: 1
   fps: 3
-  updateLimit: 10000
+  updateLimit: 1500
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
